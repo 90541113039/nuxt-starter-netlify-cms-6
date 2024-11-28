@@ -1,0 +1,1 @@
+# nuxt-starter-netlify-cms-6
